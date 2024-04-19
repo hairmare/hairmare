@@ -1,3 +1,3 @@
-Once upon a time there was an opensource dev...
+I like birds, birds are awesome.... go listen to some awesome community radio at [RaBe](https://rabe.ch) while you're here.
 
-[![rabe logo](https://github.com/hairmare/hairmare/raw/main/rabe956.svg?sanitize=true)](https://rabe.ch)
+don't panic and have fun
